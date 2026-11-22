@@ -1,0 +1,18 @@
+{
+  "version": "1.3.0",
+  "date": "2026-11-22",
+  "notes": [
+    "Nightshift is now a real Windows app with its own window. No browser, no Edge.",
+    "Dropshipping store: pick it in Settings or ask the CEO, with a \"Before you sell for real\" checklist.",
+    "The agents follow US shipping and advertising rules: honest shipping times, delay notices, no fake reviews or knockoffs.",
+    "Sounds, themes and animations drawn natively, and the window remembers its size and place."
+  ],
+  "engine": {
+    "url": "https://raw.githubusercontent.com/Uipg9/nightshift-releases/main/downloads/nightshift-update-1.3.0.zip",
+    "sha256": "bc532d207456cb7f19c6a93a7257a3fa0b0ced7fa9454040e21fcd7b49db4ff5",
+    "size": 1221179
+  },
+  "windows": {
+    "url": "https://github.com/Uipg9/nightshift-releases/raw/main/downloads/Nightshift-Windows.zip"
+  }
+}
